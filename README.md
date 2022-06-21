@@ -12,15 +12,8 @@ Ngga tau mau ngapain
 Date Jarvis
 1. Afida
 2. Dian
-3. Elvina
-4. Tiara   
-
-Nama Angkatan
-- Malware
-- Firewal
-- Jarvis
-- Neophyte
-- Integer
+- Elvina 
+- Tiara
 
 ```js
     console.log("Terimakasih");
